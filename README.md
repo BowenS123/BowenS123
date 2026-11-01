@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Bowen Liang 👋
 
-<!--
-**BowenS123/BowenS123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elektronica-ICT-student aan PXL Hogeschool met interesse in embedded systems,
+IoT, FPGA/SoC en industriële automatisering.
 
-Here are some ideas to get you started:
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bekijk mijn projecten, vaardigheden en ontwikkeling op mijn persoonlijke website:
+
+**[bowens123.github.io](https://bowens123.github.io/)**
+
+## Technologieën
+
+`C` · `C++` · `Python` · `ESP32` · `MQTT` · `LoRa` · `TwinCAT` · `TwinCAT Vision` ·
+`PlatformIO` · `ModusToolbox` · `Vitis` · `Vivado`
+
+## Contact
+
+- GitHub: [@BowenS123](https://github.com/BowenS123)
+- E-mail: [bowen.liang@student.pxl.be](mailto:bowen.liang@student.pxl.be)
