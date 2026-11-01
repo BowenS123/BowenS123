@@ -1,18 +1,12 @@
 # Hi there, I'm Bowen Liang 👋
 
-Elektronica-ICT-student aan PXL Hogeschool met interesse in embedded systems,
-IoT, FPGA/SoC en industriële automatisering.
+Elektronica-ICT-student aan PXL Hogeschool
 
 ## Portfolio
 
 Bekijk mijn projecten, vaardigheden en ontwikkeling op mijn persoonlijke website:
 
 **[bowens123.github.io](https://bowens123.github.io/)**
-
-## Technologieën
-
-`C` · `C++` · `Python` · `ESP32` · `MQTT` · `LoRa` · `TwinCAT` · `TwinCAT Vision` ·
-`PlatformIO` · `ModusToolbox` · `Vitis` · `Vivado`
 
 ## Contact
 
